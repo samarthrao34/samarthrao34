@@ -156,8 +156,7 @@ An experiment in neuroevolution simulation.
 ## 📡 Telemetry
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=samarthrao34&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF2BD6&currStreakLabel=00F0FF" width="49%" alt="GitHub streak" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthrao34&bg_color=0d1117&color=00f0ff&line=a855f7&point=ff2bd6&area=true&hide_border=true" width="49%" alt="Contribution activity graph" />
+  <img src="https://streak-stats.demolab.com?user=samarthrao34&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF2BD6&currStreakLabel=00F0FF" width="70%" alt="GitHub streak" />
 </p>
 
 <p align="center">
