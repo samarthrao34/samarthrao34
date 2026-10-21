@@ -1,27 +1,175 @@
-# 💫 About Me:
-🔭 I’m currently working as : An engineering student in Ashoka Institute Of Technology & Management  <br>👯 I’m looking to collaborate on : many amazing projects, micro startup ideas  <br>🤝 I’m looking for help with : My projects  <br>🌱 I’m currently learning : AI & ML  <br>💬 Ask me about : AI  <br>⚡ Fun fact : I once built an emotion-support AI assistant that can sense your mood, but it still can't decide which movie to watch!<br>
+<p align="center">
+  <img src="assets/banner.svg" width="100%" alt="Samarth Rao — AI/ML Engineer · Full-Stack Dev · Linux & Systems Tinkerer" />
+</p>
 
+<p align="center">
+  <a href="https://github.com/samarthrao34">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%3E+booting+sam.exe+...;%3E+training+emotionally+intelligent+AI;%3E+forking+Chromium+into+Yukti+Browser;%3E+ricing+Arch+%2B+Hyprland+at+3am;%3E+let's+build+something+amazing+%F0%9F%9A%80" alt="Typing intro" />
+  </a>
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/samarthrao34) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samarthrao34) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/samarthrao34) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/otakusam3469) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:samarthrao34@gmail.com) 
+<p align="center">
+  <a href="https://linkedin.com/in/samarthrao34"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://x.com/otakusam3469"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+  <a href="https://instagram.com/samarthrao34"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://pinterest.com/samarthrao34"><img src="https://img.shields.io/badge/Pinterest-E60023?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a>
+  <a href="mailto:samarthrao34@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=samarthrao34&style=for-the-badge&color=a855f7&label=PROFILE+VIEWS" alt="Profile views" />
+</p>
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![GitLab CI](https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Home Assistant](https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=samarthrao34&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=samarthrao34&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=samarthrao34&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="center">
+  <a href="#-whoami">whoami</a> ·
+  <a href="#-tech-stack">stack</a> ·
+  <a href="#-featured-builds">builds</a> ·
+  <a href="#-3d-contribution-skyline">skyline</a> ·
+  <a href="#-telemetry">telemetry</a>
+</p>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=samarthrao34&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## ⚡ whoami
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+```ts
+const sam = {
+  name:        "Samarth Rao",
+  role:        "Engineering student @ Ashoka Institute of Technology & Management",
+  focus:       ["AI / ML", "Emotionally intelligent assistants", "Full-stack web", "Linux systems"],
+  learning:    "Deep learning, LLM agents & on-device inference",
+  daily_drive: { os: "Arch Linux", wm: "Hyprland", editor: "Neovim / VS Code" },
+  open_to:     ["Collaborations", "Micro-startup ideas", "Hackathons"],
+  ask_me:      "anything AI",
+  fun_fact:    "Built an AI that senses your mood — still can't pick a movie to watch.",
+};
+```
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=samarthrao34&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🛠 Tech stack
+
+<table>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>🧠 AI · ML · Data</h3>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,anaconda&perline=7" alt="AI and ML stack" /><br/><br/>
+<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" alt="scikit-learn" />
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" alt="CUDA" />
+<img src="https://img.shields.io/badge/Ollama-202020?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
+</td>
+<td width="50%" align="center" valign="top">
+<h3>🌐 Frontend · Desktop</h3>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,angular,html,css,tailwind,vite,electron&perline=5" alt="Frontend stack" />
+</td>
+</tr>
+<tr>
+<td width="50%" align="center" valign="top">
+<h3>⚙️ Backend · Databases</h3>
+<img src="https://skillicons.dev/icons?i=c,cpp,nodejs,express,fastapi,flask,django,mongodb,postgres,mysql,sqlite,supabase,firebase&perline=7" alt="Backend stack" /><br/><br/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white" alt="JWT" />
+</td>
+<td width="50%" align="center" valign="top">
+<h3>☁️ Cloud · DevOps · Systems</h3>
+<img src="https://skillicons.dev/icons?i=gcp,vercel,netlify,git,github,gitlab,linux,arch,bash,vim,vscode,arduino,npm&perline=7" alt="Cloud and systems stack" /><br/><br/>
+<img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge&logo=hyprland&logoColor=black" alt="Hyprland" />
+<img src="https://img.shields.io/badge/Home_Assistant-18BCF2?style=for-the-badge&logo=homeassistant&logoColor=white" alt="Home Assistant" />
+<img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab CI" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<h3>🎨 Design</h3>
+<img src="https://skillicons.dev/icons?i=ps,figma" alt="Design tools" />
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva" />
+<img src="https://img.shields.io/badge/Krita-3BABFF?style=for-the-badge&logo=krita&logoColor=white" alt="Krita" />
+</td>
+</tr>
+</table>
+
+## 🚀 Featured builds
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [`yukti-main`](https://github.com/samarthrao34/yukti-main)
+**Yukti Browser** — a personal, privacy-first Chromium fork based on Helium / ungoogled-chromium.
+
+`C++` `Chromium` `Privacy`
+
+</td>
+<td width="50%" valign="top">
+
+### [`Maya`](https://github.com/samarthrao34/Maya)
+An emotionally intelligent AI companion that listens, remembers and responds with feeling.
+
+`TypeScript` `LLMs` `Voice`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`disha1`](https://github.com/samarthrao34/disha1)
+**Project DISHA** — *"Guiding light in your emotional journey."* An empathetic AI companion.
+
+`Python` `NLP` `AI`
+
+</td>
+<td width="50%" valign="top">
+
+### [`glassos`](https://github.com/samarthrao34/glassos)
+**GlassOS** — my own take on an operating-system desktop, running in the browser.
+
+`TypeScript` `Web OS` `AI Studio`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [`NeuraEvoSim`](https://github.com/samarthrao34/NeuraEvoSim)
+An experiment in neuroevolution simulation.
+
+`TypeScript` `Neuroevolution` `Simulation`
+
+</td>
+<td width="50%" valign="top">
+
+### [`akplay`](https://github.com/samarthrao34/akplay)
+**AKPLAY** — streaming platform with a glassmorphism UI, AI chatbot, admin CMS and a Netflix-style intro.
+
+`React` `TypeScript` `Vite`
+
+</td>
+</tr>
+</table>
+
+<p align="center"><a href="https://github.com/samarthrao34?tab=repositories"><img src="https://img.shields.io/badge/%3E_ls_~%2Frepos-0d1117?style=for-the-badge&logo=github&logoColor=00f0ff&labelColor=0d1117" alt="Browse all repositories" /></a></p>
+
+## 🏙 3D contribution skyline
+
+<p align="center">
+  <a href="https://github.com/samarthrao34?tab=overview">
+    <img src="profile-3d-contrib/profile-night-rainbow.svg" width="100%" alt="Samarth Rao's 3D contribution skyline: each building is a day, its height is the contribution count." />
+  </a>
+</p>
+
+## 📡 Telemetry
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=samarthrao34&theme=tokyonight&hide_border=true&background=0D1117&ring=A855F7&fire=FF2BD6&currStreakLabel=00F0FF" width="49%" alt="GitHub streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=samarthrao34&bg_color=0d1117&color=00f0ff&line=a855f7&point=ff2bd6&area=true&hide_border=true" width="49%" alt="Contribution activity graph" />
+</p>
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="assets/github-contribution-grid-snake.svg" />
+    <img src="assets/github-contribution-grid-snake-dark.svg" width="100%" alt="Snake eating the contribution grid" />
+  </picture>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=samarthrao34&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<p align="center">
+  <code>sam@github:~$ echo "thanks for stopping by — fork, star, or say hi 👾"</code>
+</p>
